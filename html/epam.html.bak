@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>EPAM login page</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="../css/style.css" type="text/css">
+    
+    </head>
+    <body>
+        <div class="container-fluid" id="container">
+            <div id="head">
+                <img src="../image/epam.JPG" height=56 width=70 align="left">
+                <p><b>sign in</b></p>
+            </div>
+            <input id="mail" type="text" placeholder="mail@example.com"><br>
+            <input id="password" type="password" placeholder="password">
+
+
+            <button id="sign"><b>SIGN IN</b></button><br><br>
+       
+            <button id="login"><b>EPAM &nbspLOGIN</b></button>
+        </div> 
+    </body>
+</html>
